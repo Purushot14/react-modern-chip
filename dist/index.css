@@ -1,0 +1,44 @@
+/* add css module styles here (optional) */
+
+._styles-module__modernChip__2275r {
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  background-color: #d2ddec;
+  border: none;
+  margin: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  position: relative;
+  height: 2.8rem;
+  align-items: center;
+  display: grid;
+  grid-gap: 0.5rem;
+  grid-template-columns: auto 1fr auto;
+}
+
+._styles-module__favicon__j0ejP {
+  height: 2.4rem;
+  width: 2.4rem;
+  justify-items: center;
+  align-items: center;
+  display: flex;
+}
+
+._styles-module__favicon__j0ejP img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  width: 2rem;
+  height: 2rem;
+}
+
+._styles-module__actionIcon__3PQ9r {
+  height: 2.4rem;
+  width: 2.4rem;
+  justify-items: center;
+  align-items: center;
+  display: flex;
+}
